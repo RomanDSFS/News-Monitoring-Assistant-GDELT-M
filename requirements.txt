@@ -1,0 +1,15 @@
+feedparser
+langdetect
+psycopg2
+spacy
+transformers
+streamlit
+beautifulsoup4
+requests
+pandas
+matplotlib
+plotly
+wordcloud
+python-dateutil
+python-dotenv
+nltk
